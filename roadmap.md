@@ -1,0 +1,3 @@
+- [x] Build the Spanish Cuadra onboarding, schedule builder, comparison, saved calendar, Plan B, and help screens.
+- [x] Add persistent demo state and testable schedule conflict, rest, preference, and course-combination rules.
+- [x] Verify the complete flow, phone-width layout, browser persistence, and preview status.
